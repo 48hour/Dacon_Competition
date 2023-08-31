@@ -1,4 +1,4 @@
-# Dacon_Competiation
+# Dacon_Competition
 + All the DACON competitions I participated in
 + Dacon is the AI competition platform in South Korea.
 
