@@ -5,7 +5,7 @@
 - - -
 ### [Forecasting_product_sales][dacon_link_1] | [code][dacon_code_link_1]
 [dacon_link_1]: https://dacon.io/competitions/official/236129/overview/description
-[dacon_code_link_1]: https://dacon.io/competitions/official/236129/leaderboard
+[dacon_code_link_1]: https://github.com/48hour/Dacon_Competition/blob/main/Forecasting_product_sales/Attention_LSTM.ipynb
 > 온라인 채널 제품 판매량 예측 AI 온라인 해커톤
 + Kyeword : Structured data ,Time Series, Demand Forecasting, SFA
 + Leadboard : 210/1423 (private)
